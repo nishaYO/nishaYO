@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nisha Singhal.
+- 🌱 I’m currently learning Python.
+- 🆔 twitter => @Nsinghal1234
