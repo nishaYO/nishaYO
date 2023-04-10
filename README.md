@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React.**
 
-- 👨‍💻 All of my projects are available at [hub.io/index.html](hub.io/index.html)
-
 - 📫 How to reach me **@Nsinghal1234**
 
 <h3 align="left">Connect with me:</h3>
