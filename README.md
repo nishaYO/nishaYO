@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Distributed Systems, Backend Development, and Open Source</h3>
 
 - 💼 Previously explored Finance and Law, but found my true calling in Tech 🚀
-- 
+  
 - 🌱 Skilled in **MERN stack, Bash scripting and Python**
 
 - 🔍 Exploring **Systems Architecture** via **Open Source**
