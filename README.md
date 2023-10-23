@@ -1,21 +1,52 @@
-<h1 align="center">Hi there! 👋 I'm Nisha Singhal, a 19-year-old tech enthusiast</h1>
-<h3 align="left">Learning and sharing through projects and blogs.</h3>
-<h3 align="left">Currently exploring Backend, Databases, Cloud</h3>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+# Heyoo!
+![cover_page](https://github.com/nishaYO/nishaYO/assets/111162548/ad2b38ec-293f-4fc2-85f2-4538a2170d89)
 
-<h3 align="left">📝 Check out my latest blogs</h3>
-<h4> <a href="https://nishasinghal.hashnode.dev/demystifying-blockchain-tokens" target="_blank">
-   Tokens in Blockchain
-  </a></h4>
-<h4> <a href="https://nishasinghal.hashnode.dev/data-models" target="_blank">
-   Data models
-  </a></h4>
 
-<h3>I'm always up for collaborations to build stuff together and geek out! 🤓 </h3>
-<h3 align="left">Let's Connect👇</h3>
-<p align="left">
-  <a href="[https://twitter.com/nsinghal1234](https://twitter.com/SNishaYo)" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nsinghal1234" height="30" width="40" />
-  </a>
-</p>
+## About Me
+I am Nisha Singhal. A 19 year old from India exploring development and open source.
+
+## Skills
+
+### Languages
+- JavaScript
+- Python
+- Java
+- Bash Scripting
+- SQL
+
+### Databases
+- MySQL
+- MongoDB
+
+### Libraries and Frameworks
+- Node.js
+- Express.js
+- Next.js
+- React
+- Bootstrap
+- Tailwind CSS
+- Tailblocks
+- SCSS
+
+### Cloud and Devops
+- AWS Amplify
+- AWS S3
+- Cloudflare
+- Networking
+- AWD CloudFront
+- AWS Route 53
+- Docker
+
+## Blogs
+- [Data Models](https://nishasinghal.hashnode.dev/data-models)
+- [Tokens in Blockchain](https://nishasinghal.hashnode.dev/demystifying-blockchain-tokens)
+
+## Learning and Projects
+
+- Currently Learning: Machine Learning and Backend
+- Enrolled in: [Boot.dev](http://boot.dev) course
+- Building: [Personality Analysis App](https://github.com/nishaYO/personality_analyst)
+
+## Let's Connect
+
+[Twitter](https://twitter.com/SNishaYo)
