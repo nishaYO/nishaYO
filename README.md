@@ -5,6 +5,13 @@
 ## About Me
 I am Nisha Singhal. A 19 year old from India exploring development and open source.
 
+## Learning and Projects
+
+- Currently Reading: [Operating System Concepts](https://www.amazon.in/gp/product/B074G46V8F/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- Enrolled in: [Boot.dev](http://boot.dev) bootcamp
+- Building: [Image-CLI-tool](https://www.npmjs.com/package/image-cli-tool). An npm package to manipulate images by CLI.
+
+
 ## Skills
 
 ### Languages
@@ -40,12 +47,6 @@ I am Nisha Singhal. A 19 year old from India exploring development and open sour
 ## Blogs
 - [Data Models](https://nishasinghal.hashnode.dev/data-models)
 - [Tokens in Blockchain](https://nishasinghal.hashnode.dev/demystifying-blockchain-tokens)
-
-## Learning and Projects
-
-- Currently Learning: Machine Learning and Backend
-- Enrolled in: [Boot.dev](http://boot.dev) course
-- Building: [Personality Analysis App](https://github.com/nishaYO/personality_analyst)
 
 ## Let's Connect
 
