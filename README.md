@@ -7,10 +7,9 @@ I am Nisha Singhal. A 19 year old from India exploring development and open sour
 
 ## Learning and Projects
 
+- Building: [Image-CLI-tool](https://www.npmjs.com/package/image-cli-tool)
+- Enrolled in: [Boot.dev](https://www.boot.dev/u/distortedroad89) bootcamp
 - Currently Reading: [Operating System Concepts](https://www.amazon.in/gp/product/B074G46V8F/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-- Enrolled in: [Boot.dev](http://boot.dev) bootcamp
-- Building: [Image-CLI-tool](https://www.npmjs.com/package/image-cli-tool). An npm package to manipulate images by CLI.
-
 
 ## Skills
 
