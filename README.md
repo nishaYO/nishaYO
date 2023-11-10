@@ -3,13 +3,12 @@
 
 
 ## About Me
-I am Nisha Singhal. A 19 year old from India exploring development and open source.
+I am Nisha Singhal. A 19 year old enthusiastic developer from India. I am passionate about building something that people actually wanna use. I am currently building a tool to assist people to study more productively. Check it out: [StudyBuddy](https://github.com/nishaYO/studybuddy) 
 
 ## Learning and Projects
-
-- Building: [Image-CLI-tool](https://www.npmjs.com/package/image-cli-tool)
-- Enrolled in: [Boot.dev](https://www.boot.dev/u/distortedroad89) bootcamp
-- Currently Reading: [Operating System Concepts](https://www.amazon.in/gp/product/B074G46V8F/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- Latest Project: [Image-CLI-Tool](https://github.com/nishaYO/image-cli-tool)
+- Currently Building: [StudyBuddy](https://github.com/nishaYO/studybuddy)
+- Learning: [Boot.dev](https://www.boot.dev/u/distortedroad89) bootcamp
 
 ## Skills
 
