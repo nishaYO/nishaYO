@@ -7,12 +7,11 @@ I am Nisha Singhal. A 19 year old enthusiastic developer from India. I am a pass
 
 ## Learning 
 - Golang
-- Supabase
 - AWS
 
 ## Projects and Courses
 - Latest Project: [Image-CLI-Tool](https://github.com/nishaYO/image-cli-tool)
-- Currently Building: [StudyBuddy](https://github.com/nishaYO/studybuddy)
+- Currently Building: [StudyBuddy](https://github.com/nishaYO/studybuddy) with [Adarsh](https://github.com/adarshswaminath)
 - Enrolled in: [Boot.dev](https://www.boot.dev/u/distortedroad89) bootcamp
 
 ## Skills
