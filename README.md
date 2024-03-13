@@ -1,13 +1,7 @@
 # Heyoo!
-![cover_page](https://github.com/nishaYO/nishaYO/assets/111162548/ad2b38ec-293f-4fc2-85f2-4538a2170d89)
-
 
 ## About Me
 I am Nisha Singhal. A 19 year old enthusiastic developer from India. I am a passionate builder using my dev skills to build useful stuff. I am currently building a tool to assist people to study more productively. Check it out here: [StudyBuddy](https://github.com/nishaYO/studybuddy) 
-
-## Learning 
-- Golang
-- AWS
 
 ## Projects and Courses
 - Latest Project: [Image-CLI-Tool](https://github.com/nishaYO/image-cli-tool)
@@ -16,35 +10,7 @@ I am Nisha Singhal. A 19 year old enthusiastic developer from India. I am a pass
 
 ## Skills
 
-### Languages
-- JavaScript
-- Python
-- Java
-- Bash Scripting
-- SQL
-
-### Databases
-- MySQL
-- MongoDB
-
-### Libraries and Frameworks
-- Node.js
-- Express.js
-- Next.js
-- React
-- Bootstrap
-- Tailwind CSS
-- Tailblocks
-- SCSS
-
-### Cloud and Devops
-- AWS Amplify
-- AWS S3
-- Cloudflare
-- Networking
-- AWD CloudFront
-- AWS Route 53
-- Docker
+[![My Skills](https://skillicons.dev/icons?i=js,python,golang,java,html,css,docker,mongodb,graphql,mysql,express,nodejs,react,bash,aws)](https://skillicons.dev)
 
 ## Blogs
 - [Data Models](https://nishasinghal.hashnode.dev/data-models)
