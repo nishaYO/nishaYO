@@ -5,7 +5,7 @@ I am Nisha Singhal. A 19 year old enthusiastic developer from India. I am a pass
 
 ## Projects and Courses
 - Latest Project: [Image-CLI-Tool](https://github.com/nishaYO/image-cli-tool)
-- Currently Building: [StudyBuddy](https://github.com/nishaYO/studybuddy) with [Adarsh](https://github.com/adarshswaminath)
+- Currently Building: [StudyBuddy](https://studybuddy.tech)
 - Enrolled in: [Boot.dev](https://www.boot.dev/u/distortedroad89) bootcamp
 
 ## Skills
@@ -13,6 +13,7 @@ I am Nisha Singhal. A 19 year old enthusiastic developer from India. I am a pass
 [![My Skills](https://skillicons.dev/icons?i=js,python,golang,java,html,css,docker,mongodb,graphql,mysql,express,nodejs,react,bash,aws)](https://skillicons.dev)
 
 ## Blogs
+- [Multitasking, Multithreading, Multiprocessing](https://nishasinghal.hashnode.dev/cpu-architecture)
 - [Data Models](https://nishasinghal.hashnode.dev/data-models)
 - [Tokens in Blockchain](https://nishasinghal.hashnode.dev/demystifying-blockchain-tokens)
 
