@@ -1,17 +1,12 @@
 # Heyoo!
 
 ## About Me
-I am Nisha Singhal. A 19 year old enthusiastic developer from India. I am a passionate builder using my dev skills to build useful stuff. I am currently building a tool to assist people to study more productively. Check it out here: [StudyBuddy](https://github.com/nishaYO/studybuddy) 
+I’m Nisha Singhal, a 20-year-old backend developer from India. Passionate about cloud computing, networking, operating systems, web security, and backend engineering, I love building high-performance systems and tackling low-level challenges. Currently, I’m refining my skills in low level programming and networking.
 
 ## Projects and Courses
-- Latest Project: [Image-CLI-Tool](https://github.com/nishaYO/image-cli-tool)
-- Currently Building: [StudyBuddy](https://studybuddy.tech)
-- Enrolled in: [Boot.dev](https://www.boot.dev/u/distortedroad89) bootcamp
-
-## Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,python,golang,java,html,css,docker,mongodb,graphql,mysql,express,nodejs,react,bash,aws)](https://skillicons.dev)
-
+- Latest Project: [Proxy Server](https://github.com/nishaYO/proxy_server)
+- [Studybuddy]([http](https://github.com/nishaYO/studybuddy)
+  
 ## Blogs
 - [Multitasking, Multithreading, Multiprocessing](https://nishasinghal.hashnode.dev/cpu-architecture)
 - [Data Models](https://nishasinghal.hashnode.dev/data-models)
